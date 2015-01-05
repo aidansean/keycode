@@ -1,0 +1,11 @@
+div#div_keydown{
+  width : 200px ;
+  height : 120px ;
+  border : 2px solid green ;
+  border : 2px solid black ;
+  background : #ddffdd ;
+  background : #eeeeee ;
+  margin : auto ;
+  text-align : center ;
+  font : 100px arial , sans-serif ;
+}
